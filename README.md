@@ -49,8 +49,8 @@
 - [jamboree-2024](https://jamboree.igem.org/2024/home)
 
 ### Wet lab resouces
-
-- []
+- [Addgene eBooks](https://www.addgene.org/educational-resources/ebooks/)
+- [neb resouces](https://www.neb.com/en/tools-and-resources?srsltid=AfmBOoqWFMkXUuv4tPvzy2C5d78mJQ5ILLKyCfnstuFUMfJFeOiqFqGy)
 
 ### iGEM project examples
 - [Plasmid.AI, Utoronto 2024](https://2024.igem.wiki/utoronto/description.html)
