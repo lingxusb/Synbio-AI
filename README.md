@@ -2,7 +2,8 @@
 
 ## Learning resources
 ### Deep learning course
-- [机器学习-李宏毅, bilibili](https://www.bilibili.com/video/BV1YsqSY8EiW/?spm_id_from=333.1387.homepage.video_card.click&vd_source=61fe033b178533db92a865cedfc9a92a)
+- [机器学习-李宏毅, bilibili，中文](https://www.bilibili.com/video/BV1YsqSY8EiW/?spm_id_from=333.1387.homepage.video_card.click&vd_source=61fe033b178533db92a865cedfc9a92a)
+- [machine learning courses by Andrew Ng](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng)
 
 
 ### Deep learning paper reading
@@ -15,6 +16,7 @@
 - [Attention is all you need](https://arxiv.org/abs/1706.03762)
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 - [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 
 
 ### language model for regulatory elements
