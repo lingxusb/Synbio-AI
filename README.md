@@ -38,7 +38,11 @@
 - [ProtGPT2 is a deep unsupervised language model for protein design](https://www.nature.com/articles/s41467-022-32007-7)
 - [Large language models generate functional protein sequences across diverse families](https://www.nature.com/articles/s41587-022-01618-2)
 
+### Multimodal large language models
+- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+- [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
 
+  
 ### LLM agent
 - [Aviary: training language agents on challenging scientific tasks](https://arxiv.org/abs/2412.21154)
 
