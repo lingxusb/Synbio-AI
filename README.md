@@ -15,6 +15,7 @@
 ### LLM basics
 - [Attention is all you need](https://arxiv.org/abs/1706.03762)
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
 - [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 
